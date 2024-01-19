@@ -1,3 +1,3 @@
 # Task-1
 
-Creating a document about concepts of git with various terms. Also, describing various keyterms and their associated functionalities.
+This document aims to provide an overview of Git concepts, key terms, associated functionalities, and a brief comparison of popular Git hosting platforms: GitHub, GitLab, and Bitbucket. Additionally, basic steps for cloning a remote repository to a local machine are included.
